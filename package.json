@@ -1,0 +1,22 @@
+{
+  "name": "lavender-light-theme",
+  "displayName": "Lavender Light Theme",
+  "description": "💡A beautiful theme for Visual Studio Code",
+  "publisher": "LavenderTheme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lavender Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Lavender Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
