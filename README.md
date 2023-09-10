@@ -31,9 +31,9 @@
 ### Creator
 <img src="https://i.imgur.com/Hfknxd6.png" style="width: 150px"/>
 
-[<img src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png" style="width: 24px; padding-right: 15px;"/>](https://github.com/demirsillva)  [<img src="https://cdn.icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png" style="width: 24px; padding-right: 15px;"/>](https://www.linkedin.com/in/demirsillva) [<img src="https://cdn.icon-icons.com/icons2/2566/PNG/32/external_link_icon_153574.png" style="width: 30px;"/>](https://ademirsilva.vercel.app/)
+[<img src="https://cdn.icon-icons.com/icons2/836/PNG/32/Github_icon-icons.com_66788.png" style="width: 24px; padding-right: 15px;"/>](https://github.com/demirsillva)  [<img src="https://cdn.icon-icons.com/icons2/805/PNG/32/linkedin_icon-icons.com_65929.png" style="width: 24px; padding-right: 15px;"/>](https://www.linkedin.com/in/demirsillva) [<img src="https://cdn.icon-icons.com/icons2/2018/PNG/32/friends_link_send_share_icon_123622.png" style="width: 26px;"/>](https://ademirsilva.vercel.app/)
 **Ademir Silva**
 
 ---
 #### License
-[MIT © Ademir Silva]()
+[MIT © Ademir Silva](https://github.com/demirsillva/lavender-theme/blob/main/LICENSE)
