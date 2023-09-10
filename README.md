@@ -1,6 +1,6 @@
 <!-- # <center style="color: #726781;">LAVENDER LIGHT THEME</center> -->
 
-<center><img src="https://i.imgur.com/FeBUGZ4.png" style="width: 300px; padding-bottom: 15px;" /></center>
+<p align="center"><img src="https://i.imgur.com/FeBUGZ4.png" style="width: 300px; padding-bottom: 15px;" /></p>
 <div style="text-align: center">💡 A beautiful light theme for your Visual Studio Code. This theme is focused on medium-term work without causing discomfort to the eyes.</div>
 <br>
 
