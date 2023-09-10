@@ -3,7 +3,7 @@
   "displayName": "Lavender Light Theme",
   "description": "💡 A beautiful theme for Visual Studio Code",
   "publisher": "LavenderTheme",
-  "version": "0.0.5",
+  "version": "0.0.6",
 	"icon": "assets/lavender-logo.png",
   "engines": {
     "vscode": "^1.82.0"
