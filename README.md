@@ -28,7 +28,7 @@
 <br>
 
 ## Creator
-<img src="https://i.imgur.com/74kO76F.png"/>
+<img src="https://i.imgur.com/kCTXefU.png"/>
 
 **Ademir Silva**
 
