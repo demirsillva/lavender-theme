@@ -9,15 +9,15 @@
 
 
 ## Themes available
-- Lavender Light ( beta )
-
-<!-- > - Lavender Dark
+- Lavender Light
+- Lavender Dark
+<!-- > 
 > - Lavender High Contrast -->
 
 
 ## Installation
 1. Open the **Extensions** sidebar in VS Code
-2. Search for **Lavender Light Theme**
+2. Search for **Lavender Code Theme**
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl + Shift + P` or `⇧ + ⌘ + P`
 5. Select **Preferences: Color Theme** and choose Lavender theme.
