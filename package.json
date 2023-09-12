@@ -1,9 +1,9 @@
 {
-  "name": "lavender-light-theme",
-  "displayName": "Lavender Light Theme",
+  "name": "lavender-code-theme",
+  "displayName": "Lavender Code Theme",
   "description": "💡 A beautiful theme for Visual Studio Code",
   "publisher": "LavenderTheme",
-  "version": "0.0.6",
+  "version": "0.0.7",
 	"icon": "assets/lavender-logo.png",
   "engines": {
     "vscode": "^1.82.0"
@@ -17,6 +17,11 @@
         "label": "Lavender Light Theme",
         "uiTheme": "vs",
         "path": "./themes/LavenderLightTheme-color-theme.json"
+      },
+      {
+        "label": "Lavender Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LavenderDarkTheme-color-theme.json"
       }
     ]
   }
