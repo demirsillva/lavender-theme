@@ -5,7 +5,7 @@
 <br>
 
 
-![Image VS Code](https://i.imgur.com/XAZsbcS.png)
+![Image VS Code](https://i.imgur.com/wKrJAL5.png)
 
 
 ## Themes available
